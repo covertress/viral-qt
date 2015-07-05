@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Viral
+Comment=Viral P2P Cryptocurrency
+Comment[fr]=Viral, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Viral, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/viral-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/viral;
+Categories=Office;

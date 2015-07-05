@@ -1,0 +1,2 @@
+debian/bin/virald usr/bin
+src/virald usr/lib/viral
